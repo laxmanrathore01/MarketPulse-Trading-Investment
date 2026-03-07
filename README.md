@@ -71,13 +71,13 @@ By combining these features into a unified system, users can efficiently monitor
 
 ## 🔑 Key Features (Planned)
 
-- User Authentication & Authorization  
+- User Authentication and Authorization  
 - Real-Time Stock Price Updates  
-- Portfolio Creation & Management  
+- Portfolio Creation and Management  
 - Buy/Sell Stock Simulation  
 - Performance Tracking  
-- Stock Search & Analysis  
-- Interactive Charts & Graphs  
+- Stock Search and Analysis  
+- Interactive Charts and Graphs  
 - Fully Responsive UI  
 
 ---
