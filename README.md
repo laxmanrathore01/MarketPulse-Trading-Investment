@@ -12,7 +12,7 @@ This project aims to help both beginners and experienced investors make informed
 
 ## 🎯 Problem Statement
 
-With the growing participation in stock market trading and investing, existing platforms often:
+With the growing participation in the stock market trading and investing, the existing platforms often:
 
 - Lack real-time insights  
 - Do not provide intuitive data visualization  
