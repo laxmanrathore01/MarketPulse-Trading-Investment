@@ -34,7 +34,7 @@ cd backend
 
 3. Set up the configuration file:
 - Create an .env file in the backend folder of the market pulse
-- Update the necessary environment variables in the `.env` file, such as database credentials and API keys.
+- Update the necessary environment variables in the `.env` file, such as database credential and API keys.
 ```
 Frontend .env:
 REACT_APP_BASE_URL=http://localhost:5000/api
