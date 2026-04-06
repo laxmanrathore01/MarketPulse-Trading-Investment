@@ -63,7 +63,7 @@ For backend: npm run dev
 
 
 ## 🤝 Contribution
-Contributions are welcome,
+Contributions are welcome
 
 
 # 🛡️ License
