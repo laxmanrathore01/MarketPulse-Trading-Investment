@@ -17,7 +17,7 @@ VISIT HERE : https://marketpulsebylaxman.vercel.app/
 
 ## ⚙ Installation
 
-Follow these steps to set up Stockify locally:
+Follow these steps to set up market pulse locally:
 
 1. Clone the repository: 
 ```
