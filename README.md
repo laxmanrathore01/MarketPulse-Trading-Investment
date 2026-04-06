@@ -33,7 +33,7 @@ cd backend
 ```
 
 3. Set up the configuration file:
-- Create an .env file in the backend folder of the stockify
+- Create an .env file in the backend folder of the market pulse
 - Update the necessary environment variables in the `.env` file, such as database credentials and API keys.
 ```
 Frontend .env:
